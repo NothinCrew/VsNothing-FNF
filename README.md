@@ -6,7 +6,8 @@ Refer to [the Build Instructions](./BUILDING.md)
 
 ### Modding
 
-![](README.mp4)
+![download me!!!!11!!!111!1](README.mp4)
 
-Bambi spamtracks be like
+This source is going to be changed to vanilla FNF 0.2.x.
 
+Currently have 3m problems with compiling rn
