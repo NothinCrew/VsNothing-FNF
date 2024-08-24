@@ -32,6 +32,10 @@ haxelib set openfl 9.3.2
 haxelib git SScript https://github.com/SScript-Guy/SScript-new
 haxelib install tjson 1.4.0
 haxelib set tjson 1.4.0
+haxelib run lime setup flixel
+haxelib run lime setup
+haxelib install flixel-tools
+haxelib run flixel-tools setup
 echo Done!
 pause
 exit
