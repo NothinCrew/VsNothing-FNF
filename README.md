@@ -4,3 +4,9 @@ A mod that's based on the early builds of [Friday Night Funkin'](https://github.
 ## Building
 Refer to [the Build Instructions](./BUILDING.md)
 
+### Modding
+
+![](README.mp4)
+
+Bambi spamtracks be like
+
