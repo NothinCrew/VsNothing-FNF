@@ -11,3 +11,7 @@ Refer to [the Build Instructions](./BUILDING.md)
 This source is going to be changed to vanilla FNF 0.2.x.
 
 Currently have 3m problems with compiling rn
+
+## Nothing Restart
+
+This mod has been restarted.
