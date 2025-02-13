@@ -1,17 +1,8 @@
 # Friday Night Funkin' : Vs Nothing
-A mod that's based on the early builds of [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin/commits/1.0.0), but a twist.
+A mod that's based on the early builds of [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin/commits/1.0.0), but with a twist.
 
-## Building
-Refer to [the Build Instructions](./BUILDING.md)
+## Don't worry, this is still being worked on!
 
-### Modding
+The repository of Vs Nothing that you are right now is the old version.
 
-![download me!!!!11!!!111!1](README.mp4)
-
-This source is going to be changed to vanilla FNF 0.2.x.
-
-Currently have 3m problems with compiling rn
-
-## Nothing Restart
-
-This mod has been restarted.
+So you might not see a commit on here!
